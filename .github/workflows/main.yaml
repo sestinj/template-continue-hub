@@ -10,7 +10,7 @@ on:
       - .github/workflows/main.yaml
 
 env:
-  OWNER_SLUG: nate-organization
+  OWNER_SLUG: continuedev-internal
 
 jobs:
   publish:
